@@ -215,4 +215,4 @@ Carom3D is offered as a **full free version** with all features and updates incl
 Don't miss out on the fun! **Download Carom3D free today and start your billiards adventure!**
 
 ---
-**Last updated:** 2026-10-02 18:50:30 UTC
+**Last updated:** 2026-10-02 22:42:53 UTC
